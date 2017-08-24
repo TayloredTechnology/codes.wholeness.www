@@ -1,7 +1,7 @@
 ---
 title: "Dark Chocolate Decadence"
 date: 2017-08-24T22:20:13+10:00
-description: "Rich, sultry, decadent, dark chocolate cake"
+description: "Rich, sultry, decadent, chocolate cream cake - gluten free - diary free - refined sugar free"
 keyImages:
   featured:
     name: 'dark-chocolate-decadence'
@@ -79,4 +79,8 @@ draft: true
 
 ## Flavour Profile
 
+Chocolate undergoes complex processing as the untreated beans are very astringent and bitter. The fermentation process of the chocolate beans gives rise to fruity, wine-like or sherry flavors while the roasting process introduces a huge array of nutty, earthy, woody, spicy and flowery notes. In this creamy chocolate pie, the sweetness of the chipotle chili complements beautifully the bitterness of the dark chocolate. The dry chili extends the sweet flavour while further expanding the leathery, raisiny notes. Besides flavour compatibility, the fat in the chocolate offsets the chili heat, resulting in a complex, sweet, bitter, piquant, creamy and decadent chocolate cream cake.    
+
 ## Inspiring You
+
+A healthy life without the sweet flavor is not a balanced life at all, at least in my book. With this recipe, no matter what dietary restrictions you may be on, you still can make this cake and eat it too; not only that, but truly enjoy it too. To best appreciate this decadent desert,  take a bite, push it to the roof of your mouth and let it melt, as its flavors will reveal themselves delight and tantalize  your palate.
