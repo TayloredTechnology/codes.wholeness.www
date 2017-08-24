@@ -6,18 +6,26 @@ description = ""
 Paginate = 10
 [Params]
   RSSLink = "/index.xml"
-  author = "Taylored Technology" # add your company name
-  github = "TayloredTechnology" # add your github profile name
-  twitter = "" # add your twitter profile
+  author = "Claudia Carmen Anton"
+  github = "ClaudiaCarmenAnton"
+  twitter = "ClaudiaCAnton"
 
 [[menu.main]]
-    name = "Blog"
-    weight = -100
-    url = "/blog/"
+  name = "Blog"
+  weight = -100
+  url = "/blog/"
 [[menu.main]]
-    name = "Contact"
-    weight = -100
-    url = "/contact/"
+  name = "Contact"
+  weight = -100
+  url = "/contact/"
+[[menu.main]]
+  name = "Recipes"
+  weight = -100
+  url ="/recipes/"
+[[menu.main]]
+  name = "Why Claudia"
+  weight = -100
+  url ="/why-claudia/"
 
 [taxonomies]
   recipes = "recipes"
