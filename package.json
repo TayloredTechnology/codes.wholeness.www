@@ -44,6 +44,6 @@
     "url-loader": "^0.5.7",
     "vanilla-lazyload": "^5.0.0",
     "webpack": "^2.6.0",
-    "whatwg-fetch": "^1.0.0"
+    "whatwg-fetch": "^2.0.3"
   }
 }
