@@ -42,7 +42,7 @@
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^10.0.0",
     "url-loader": "^0.5.7",
-    "vanilla-lazyload": "^5.0.0",
+    "vanilla-lazyload": "^10.4.2",
     "webpack": "^2.6.0",
     "whatwg-fetch": "^1.0.0"
   }
